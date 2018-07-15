@@ -5,19 +5,43 @@ body {
 	font-family: Verdana;
 }
 
-h2 { 
-	border-bottom: 2px solid #e60000;
-	width: 100%;
+#underheader { 
+	/*border-bottom: 2px solid #e60000;*/
+	font-weight: lighter;
+	font-style: italic;
+	margin: 0px;
+}
 
+h1, h4 {
+	text-align: center
+}
+
+.picturecaption{
+	margin-bottom: 50px;
 }
 
 img {
 	width:400px;
 	height:250px;
+	border-radius: 5px;
 }
 
 #header {
-	background-color: #aadfa9;
+	background-color: #a9c4df;
 	margin: 10px;
-	height: 90px;
+	border-radius: 5px;
+	padding: 30px;
+}
+
+h1 {
+	margin:0px;
+}
+
+.main {
+	margin: auto;
+	/*padding: 10px;*/
+}
+
+table {
+	margin: auto;
 }
