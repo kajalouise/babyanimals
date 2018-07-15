@@ -1,0 +1,23 @@
+body {
+	color: #e60000;
+	margin: 0px;
+	background-color: #e6ffe6;
+	font-family: Verdana;
+}
+
+h2 { 
+	border-bottom: 2px solid #e60000;
+	width: 100%;
+
+}
+
+img {
+	width:400px;
+	height:250px;
+}
+
+#header {
+	background-color: #aadfa9;
+	margin: 10px;
+	height: 90px;
+}
